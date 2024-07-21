@@ -42,3 +42,14 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="pytorch" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/products/azure-sql/database" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/cosmos-db" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cosmosdb/cosmosdb-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://slack.com/intl/en-gb/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="pytorch" width="40" height="40"/> </a>
+
+
