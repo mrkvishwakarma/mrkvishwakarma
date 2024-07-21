@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Krishna Vishwakarma</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">I am an Data Engineering enthusiast, currently pursuing Master’s in Computer Science from Northeastern University, Rochester. I am a certified Jr Data Engineer from Databricks. </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="mrkvishwakarma" /> </p>
 
+- 🌱 I’m currently learning **Big Data**
+
+- 💬 Ask me about **Data Engineering**
+  
 - 📫 How to reach me **mrkvishwakarma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
