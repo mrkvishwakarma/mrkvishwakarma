@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrkvishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrkvishwakarma" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/FKoGHc0SMb/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="mrkvishwakarma" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mrkvishwakarma/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="mrkvishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/mrkvishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrkvishwakarma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/KrishnnaV?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkvishwakarma" height="30" width="40" /></a>
 </p>
