@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Vishwakarma</h1>
-<h3 align="center">I am an Data Engineering enthusiast, currently pursuing Master’s in Computer Science from Rochester Institute of Technology, Rochester. I am a certified Jr Data Engineer from Databricks. </h3>
+<h3 align="center">I am an Data Engineering enthusiast, currently pursuing Master’s in Computer Science from Rochester Institute of Technology, Rochester. I am a certified Associate Data Engineer from Databricks. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="mrkvishwakarma" /> </p>
