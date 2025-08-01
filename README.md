@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkvishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="mrkvishwakarma" /> </p>
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **LLM & GenAI Agents**
 
 - 💬 Ask me about **Data Engineering**
   
