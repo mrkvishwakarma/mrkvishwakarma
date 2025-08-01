@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **LLM & GenAI Agents**
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Data Analytics & Engineering**
   
 - 📫 How to reach me **mrkvishwakarma@gmail.com**
 
